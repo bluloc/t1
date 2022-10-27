@@ -1,0 +1,2 @@
+<Scope>glenlivet:user:password:write</Scope>
+<CONNECTIONSTR>server=fooo;database=testdb;uid=someUID;pwd=49x2</CONNECTIONSTR>
