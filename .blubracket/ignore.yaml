@@ -1,0 +1,5 @@
+- secret_values:
+    - TEST_PASSWORD                    # generic test password
+- paths:
+    - "config.ini"
+    - ".env"
