@@ -1,6 +1,5 @@
 - secret_values:
-    - TEST_PASSWORD                    # generic test password
+    - piza#1245
 - paths:
-    - "**/config*.ini"
     - ".env"
     
