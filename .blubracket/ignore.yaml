@@ -1,5 +1,5 @@
 - secret_values:
-    - piza#1245
+    - pizza#1245
 - paths:
-    - ".env"
+    - .env
     
