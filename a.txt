@@ -5,3 +5,6 @@ rubygems_63e9703e46eecdb165d645f580002225233f12baf4018ca4
 
 #dropbox access token
 sl.BNYV-c7p1XQZlZ9DbAAMCXhCFeOJSsPMFm8LSHAC01U8fwqJ9jBtMcdPGx5uEWwWjqpixrj3O9XAnvHlpR41M4ETf91GOJ3TF8uhJRy6mhe5bTbn3E8x1dAZs0F_A10jkjoRgRNW
+
+#xmltag trim fix
+<CONNECTIONSTR>server=fooo;database=testdb;uid=someUID;pwd=49x2</CONNECTIONSTR>
