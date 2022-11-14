@@ -8,3 +8,6 @@ sl.BNYV-c7p1XQZlZ9DbAAMCXhCFeOJSsPMFm8LSHAC01U8fwqJ9jBtMcdPGx5uEWwWjqpixrj3O9XAn
 
 #xmltag trim fix
 <CONNECTIONSTR>server=fooo;database=testdb;uid=someUID;pwd=49x2</CONNECTIONSTR>
+
+$cipher prefix
+kafka.basic.password={cipher}434d4f30d33db1d37f0748c29b0193852dfc9a95f4e3f1ec300949e888a10583
